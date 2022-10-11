@@ -3,6 +3,8 @@ This is a repository with solutions of problems in SoftUni Course: Programming B
 
 Lecturer of course - Mario Zahariev
 
+Leading the exercises - Ivan Shopov
+
 https://softuni.bg/trainings/3507/programming-basics-with-python-september-2021
 
 Online judge system - https://judge.softuni.org/
